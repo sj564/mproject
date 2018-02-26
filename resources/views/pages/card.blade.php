@@ -1,5 +1,8 @@
 <div class="card">
-    <div class="card bg-danger text-white>Header</div>
-    <div class="card-body">Content</div>
-    <div class="card-footer">Footer</div>
+    <div class="card-block">
+        <h4 class="card-title">Subject:</h4>
+        <h4 class="card-title">From Email:</h4>
+        <h4 class="card-title">Message:</h4>
+
+    </div>
 </div>

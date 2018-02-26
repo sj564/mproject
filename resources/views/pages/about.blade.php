@@ -6,7 +6,7 @@
 
 
         <h1>Hello everyone! This is the about page.</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+        <p class="lead">This is the about page for the mini-project for IS601.<br> Kindly go through all other pages.</p>
 
 
         </div>
