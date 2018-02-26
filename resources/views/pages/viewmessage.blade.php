@@ -32,13 +32,7 @@
                         <td ><button type="button">Click to delete message</button></td>
 
                     </tr>
-                    <tr>
-                        <td>2</td>
-                        <td> <a href="http://sj564miniproject.herokuapp.com/card">Hi</td>
-                        <td ><button type="button">Click to delete message</button></td>
-
-                    </tr>
-
+                    
                     </tbody>
                 </table>
             </div>
