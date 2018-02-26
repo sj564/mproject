@@ -1,7 +1,5 @@
 <div class="card">
-    <ul class="list-group list-group-flush">
-        <li class="list-group-item">Subject</li>
-        <li class="list-group-item">From E-mail</li>
-        <li class="list-group-item">Message</li>
-    </ul>
+    <div class="card-header">Header</div>
+    <div class="card-body">Content</div>
+    <div class="card-footer">Footer</div>
 </div>
