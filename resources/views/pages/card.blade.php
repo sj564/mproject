@@ -1,9 +1,7 @@
 <div class="card">
-
-    <div class="card-block">
-
-        <p style="padding-top: 1cm">Subject: <br> <br> From Email: <br> <br>Message:</p>
-
-    </div>
-
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Subject</li>
+        <li class="list-group-item">From E-mail</li>
+        <li class="list-group-item">Message</li>
+    </ul>
 </div>
