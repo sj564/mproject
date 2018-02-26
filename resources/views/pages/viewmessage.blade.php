@@ -27,7 +27,7 @@
                     <tbody>
                     <tr>
                         <td>1</td>
-                        <td> <a href="http://localhost:8000/card">Hello</td>
+                        <td> <a href="http://sj564miniproject.herokuapp.com/card">Hello</td>
                         <td ><button type="button">Click to delete message</button></td>
 
                     </tr>
