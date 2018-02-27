@@ -38,6 +38,24 @@
                         <td ><button type="button">Click to delete message</button></td>
 
                     </tr>
+                    <tr>
+                        <td>3</td>
+                        <td> <a href="http://sj564miniproject.herokuapp.com/card">Hey IS601</td>
+                        <td ><button type="button">Click to delete message</button></td>
+
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td> <a href="http://sj564miniproject.herokuapp.com/card">How are you?</td>
+                        <td ><button type="button">Click to delete message</button></td>
+
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td> <a href="http://sj564miniproject.herokuapp.com/card">Great Weather! Where are you going today</td>
+                        <td ><button type="button">Click to delete message</button></td>
+
+                    </tr>
 
                     </tbody>
                 </table>
