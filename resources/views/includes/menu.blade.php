@@ -16,7 +16,7 @@
                 <a class="nav-link" href="/contact">Contact</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/viewmessage">View Message</a>
+                <a class="nav-link" href="/viewmessage">View Messages</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/signup">Sign Up</a>
